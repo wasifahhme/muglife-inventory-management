@@ -1,0 +1,1 @@
+# muglife-inventory-management
